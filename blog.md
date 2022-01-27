@@ -16,6 +16,6 @@ Having to work on new assignments/projects |
 
 > ### What is something about you that can only be learned by reading this blog?
 
-## I am really into video games. I started my interest in video games when I was a child. My Uncle had an N64, which soon became my favorite console. One of my best memories is me and my cousin trying our hardest to beat [Majora's Mask](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask) together and getting scared of **the moon**.
+## I am really into video games. I started my interest in video games when I was a child. My Uncle had an N64, which soon became my favorite console. One of my best memories is me and my cousin trying our hardest to beat [Majora's Mask](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask) together while getting scared of **the moon**.
 ![Majora's Mask Moon](http://images6.fanpop.com/image/articles/266000/windwakerguy430_266443_1_full.jpg?cache=1519840916)
 <!-- </center> -->
