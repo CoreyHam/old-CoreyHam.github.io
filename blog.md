@@ -12,7 +12,7 @@ Having to work on new assignments/projects |
 
 > ### What are you excited or eager to learn more about?
 
-## I have some knowledge on html and css, but I would definitly like to learn more about JavaScript. Being able to invision how a website should look and act and then being able to make it happen is an exciting skill to learn.
+## I have some knowledge on html and css, but I would definitely like to learn more about JavaScript. Being able to envision how a website should look and act and then being able to make it happen is an exciting skill to learn.
 
 > ### What is something about you that can only be learned by reading this blog?
 
