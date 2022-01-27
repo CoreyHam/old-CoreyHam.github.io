@@ -3,7 +3,7 @@
 # Week 1
 > ### Was your first week what you expected? Why? Why not?
 
- ## **Yes and No,**
+## **Yes and No,**
 
 What I was Expecting | What I was not Expecting
 ------------ | -------------
