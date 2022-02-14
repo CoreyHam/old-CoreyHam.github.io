@@ -6,7 +6,7 @@
 
 ## **Yes and No,**
 
-What I was Expecting | What I was not Expecting
+**What I was Expecting** | **What I was not Expecting**
 ------------ | -------------
 Joining a team of future web developers | Having to get used to GitHub and GitPods
 Having to work on new assignments/projects | 
